@@ -2,7 +2,7 @@
 a fun browser userscript that plays a xylophone melody whenever you type  the word "snack" on any website
 built using pure javascript and runs with tampermonkey
 
-installation 
+* installation 
 install tampermonkey extension from your browser's  extension store
 
 add the script
@@ -23,4 +23,5 @@ note:
 audio requires user interaction
 typing in the address bar wont work
 script must be enabled
+
 
